@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/fondopagina.jpeg);
+}
+
+h1{
+    background-color: rgba(0, 174, 255, 0.591);
+}
+
+img{width: 470px;
+    height: 380px;
+}
+
+a{
+    width: 150px;
+    background-color: lightblue; 
+    padding:5px 20px; 
+    margin-top: 20px; 
+    display: block;
+    border: 4px solid; 
+    border-radius: 5;
+}

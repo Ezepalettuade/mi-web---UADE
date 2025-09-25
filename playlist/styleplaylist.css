@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+
+nav{
+    background-color: aliceblue;
+    height: 48px;
+}
+
+#ul{
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 0%;
+    padding: 0%;
+    height: 50px;
+}
+
+
+#ul li{
+
+    list-style-type: none;
+    font-size: 25px;
+    text-align: right;
+    background-color: bisque;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#ul li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+
+#ul li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+
+#ul a img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+
+.container {
+    background-color: rgba(88, 83, 80, 0.334);
+    height: 100%;
+    text-align: center;
+}
+
+aside {
+    background-color: rgba(121, 113, 129, 0.389);
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+}
+
+main {
+    background-color: rgba(165, 42, 42, 0.581);
+    display: inline-block;
+    width: 60%;
+    height: 100%;
+    vertical-align: top;
+}
+
+footer{
+    background-color: rgb(72, 68, 68);
+    text-align: center;
+    height: 30vh;
+}
+
+aside ul li{
+    display: inline-block;
+    width: 100%;
+}
+
+.columna{
+    display: inline-block;
+    /*border: 2px solid whitesmoke;*/
+    width: 20vw;;
+    height: 100%;
+    vertical-align: top;
+}
+
+#columna2 ul li{
+    list-style-type: none;
+}
+
+#columna3 ul li a img{
+    list-style-type: none;
+    width: 20px;
+    height: 20px;
+}
+

@@ -1,0 +1,28 @@
+body{
+    background-image: url(img/fondopagina.jpeg);
+}
+
+h1{
+    background-color: rgba(66, 191, 232, 0.628)
+}
+
+h2{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 30;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+}
+
+a{
+    width: 150px;
+    background-color: lightblue; 
+    padding:5px 20px; 
+    margin-top: 20px;
+    display: inline-block;
+    border: 4px solid; 
+    border-radius: 5;
+}

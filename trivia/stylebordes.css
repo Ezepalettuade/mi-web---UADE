@@ -1,0 +1,13 @@
+/*
+Tipos de selectores:
+1) tipo <body> <h1>
+2)clase class="nombre" Se usa .nombre (mismo estilo a varios elementos)
+3) id id="nombre" se usa #(para un unico elemento)
+4)jerarquias: TIPO > ClASE > ID > STYLE ( max jerar..)
+*/
+
+
+body{ 
+    background-color: red;
+}
+
